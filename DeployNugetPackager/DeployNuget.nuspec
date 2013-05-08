@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>DeployNuget</id>
+    <version>0.0.0.7</version>
+    <title>DeployNuget</title>
+    <authors>swana</authors>
+    <summary></summary>
+    <description>The package for creating nuget packages and pushing them to a file share. This is done via a simple one shot powershell script and XML Config</description>
+    <language>en-us</language>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies></dependencies>
+  </metadata>
+  <files>
+    <file src="..\Content\DeployNugetPackager\DeployNugetReadme.txt" target="\Content\DeployNugetPackager\DeployNugetReadme.txt" />
+    <file src="DeployNuget.ps1" target="\Content\DeployNugetPackager\DeployNuget.ps1" />
+    <file src="DeployLocal.bat" target="\Content\DeployNugetPackager\DeployLocal.bat" />
+    <file src="DeployServer.bat" target="\Content\DeployNugetPackager\DeployServer.bat" />
+    <file src="IncrementVersion.ps1" target="\Content\DeployNugetPackager\IncrementVersion.ps1" />
+    <file src="IncrementVersion.bat" target="\Content\DeployNugetPackager\IncrementVersion.bat" />
+  </files>
+</package>
