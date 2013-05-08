@@ -17,7 +17,7 @@ YOU WILL NEED TO CREATE THIS FILE AFTER INSTALLING THIS PACKAGE FOR THE FIRST TI
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Rename this file to DeployNuget.config and set your required properties. These will be picked up by the DeployNuget powershell script -->
 <DeployNuget>
-	<TargetNugetShareBaseDirectory>\\dersan01\psb data\Product Development\Working Areas\Sierra\NugetPackages</TargetNugetShareBaseDirectory>
+	<TargetNugetShareBaseDirectory>\\MyServer\NugetPackages</TargetNugetShareBaseDirectory>
 	<TargetNugetLocalBaseDirectory>c:\NugetPackages</TargetNugetLocalBaseDirectory>
 </DeployNuget>
 --------------------------------------------
