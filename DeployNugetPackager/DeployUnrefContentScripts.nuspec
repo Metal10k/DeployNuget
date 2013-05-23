@@ -2,7 +2,7 @@
 <package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <id>DeployNuget.ContentScripts</id>
-    <version>0.0.0.1</version>
+    <version>0.0.0.2</version>
     <title>DeployNuget Unreferenced Content Installation Scripts</title>
     <authors>swana</authors>
     <summary></summary>
