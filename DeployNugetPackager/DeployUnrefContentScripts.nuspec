@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>DeployNuget.ContentScripts</id>
+    <version>0.0.0.1</version>
+    <title>DeployNuget Unreferenced Content Installation Scripts</title>
+    <authors>swana</authors>
+    <summary></summary>
+    <description>Install and uninstall powershell scripts for copying content to your project folder without creating project references and checking into source control.</description>
+    <language>en-us</language>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies></dependencies>
+  </metadata>
+  <files>
+    <file src="..\Content\tools\Install.ps1" target="\Content\tools\Install.ps1" />
+    <file src="..\Content\tools\Uninstall.ps1" target="\Content\tools\Uninstall.ps1" />
+	<file src="..\Content\tools\Readme.txt" target="\Content\tools\Readme.txt" />
+  </files>
+</package>
