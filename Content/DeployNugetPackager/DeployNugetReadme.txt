@@ -35,7 +35,7 @@ YOU WILL NEED TO CREATE ONE OR MORE INSTANCES OF THIS FILE AFTER INSTALLING THIS
     <id>Business.Fake</id>
     <version>0.0.0.1</version>
     <title>YourProjectTitleHere</title>
-    <authors>swana</authors>
+    <authors>Metal10k</authors>
     <summary></summary>
     <description>Your description here</description>
     <language>en-us</language>

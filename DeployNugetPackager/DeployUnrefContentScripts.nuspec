@@ -4,7 +4,7 @@
     <id>DeployNuget.ContentScripts</id>
     <version>0.0.0.2</version>
     <title>DeployNuget Unreferenced Content Installation Scripts</title>
-    <authors>swana</authors>
+    <authors>Metal10k</authors>
     <summary></summary>
     <description>Install and uninstall powershell scripts for copying content to your project folder without creating project references and checking into source control.</description>
     <language>en-us</language>

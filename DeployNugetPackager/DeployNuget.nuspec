@@ -4,7 +4,7 @@
     <id>DeployNuget</id>
     <version>0.0.0.7</version>
     <title>DeployNuget</title>
-    <authors>swana</authors>
+    <authors>Metal10k</authors>
     <summary></summary>
     <description>The package for creating nuget packages and pushing them to a file share. This is done via a simple one shot powershell script and XML Config</description>
     <language>en-us</language>
